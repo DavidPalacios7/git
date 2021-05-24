@@ -10,6 +10,7 @@ public class GitApplication {
 
 		/*
 			Add hotfix changes in the code
+			Add feature2 changes in the code
 		 */
 		SpringApplication.run(GitApplication.class, args);
 	}
